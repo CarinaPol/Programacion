@@ -62,8 +62,10 @@ h1,h2,h3 {
  }
 
 .tarjeta-blanca img {
-	width: 100%;
-	height: 260px;
+	width: 50%;
+	height: 130px;
+	display:block;
+	margin:auto;
 	object-fit: cover;
 	border-radius: 4px;
  }
